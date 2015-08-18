@@ -12,6 +12,7 @@ menu:
 #### Widgets
 widgets: 
 - weibo
+- cloudmusic
 - category
 - tag
 - links
@@ -66,6 +67,7 @@ author:
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
+  cloudmusicid: 85113844
 ## if you set them, the corresponding  share button will show on the footer
 
 #### Toc
